@@ -1,1 +1,1 @@
-Small program using the energy usage from solar panels to see the eneregy usage yesterday.
+Small program using the energy usage from website to see the eneregy usage over time.
